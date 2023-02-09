@@ -1,0 +1,1 @@
+const axios=require("axios"),qs=require("querystring");module.exports=async(link)=>{const res=await axios.post("https://ytpp3.com/newp",qs.stringify({u:link,c:"US"}),{headers:{"Content-Type":"application/x-www-form-urlencoded"}});return res.data};
