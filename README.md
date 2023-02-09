@@ -1,9 +1,9 @@
-# Youtube Video Downloader Scrapper
-Scrap data from a Youtube video & audio downloader and get direct info & url links.
+# Youtube Video & Audio Downloader Scrapper
+Scrap data from a Youtube video & audio downloader site and get direct info & url links.
 
 ## Install
 ```
-npm install ytdown
+npm install ytscrap
 ```
 
 ## Changelog
@@ -12,9 +12,9 @@ npm install ytdown
 
 ## Usage
 ```
-const ytdown = require('ytdown')
+const ytscrap = require('ytscrap')
 
-ytdown('https://www.youtube.com/watch?v=36uDReSdFDU')
+ytscrap('https://www.youtube.com/watch?v=36uDReSdFDU')
   .then((res) => {
     console.log(res)
   })
@@ -24,7 +24,7 @@ ytdown('https://www.youtube.com/watch?v=36uDReSdFDU')
 ```
 
 ## Issues & Contact
-- Create issue session in [Github Repo](https://github.com/Aromakelapa/fdownloader/issues)
+- Create issue session in [Github Repo](https://github.com/Aromakelapa/ytscrap/issues)
 
 - You can reach me on [Telegram](https://t.me/Aromakelapa)
 
