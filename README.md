@@ -1,4 +1,6 @@
-# Youtube Video & Audio Downloader Scrapper
+# This Module is DEPRECATED! use this [NEW MODULE](https://www.npmjs.com/package/ytmp3-scrap)
+
+## Youtube Video & Audio Downloader Scrapper
 Scrap data from a Youtube video & audio downloader site and get direct info & url links.
 
 ## Install
@@ -7,8 +9,8 @@ npm install ytscrap
 ```
 
 ## Changelog
-- #### v1.0.0
-  - Initial commit
+- #### v1.0.1
+  - This module is deprecated!
 
 ## Usage
 ```

@@ -1,6 +1,6 @@
 {
   "name": "ytscrap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "YouTube video & audio downloader scrapper. Scrap data from a YouTube video & Audio downloader and get direct info & url links from your media.",
   "main": "index.js",
   "scripts": {
